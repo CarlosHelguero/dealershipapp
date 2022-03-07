@@ -5,6 +5,6 @@ def returnConnection():
         host = "mydatabasee.cphw5qnsj00k.us-east-1.rds.amazonaws.com",
         user = "admin",
         password = "rootroot",
-        database = "mydatabaseaci"
+        database = "mydatabase"
     )
     return conn
